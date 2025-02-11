@@ -11,7 +11,7 @@ build/
 coverage/
 
 # Ortam değişkenleri
-.env
+#.env
 
 # Log dosyaları
 logs/
